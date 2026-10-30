@@ -99,6 +99,18 @@ I'm always up for interesting conversations and collaborating on cool ideas.
   </a>
 </p>
 
+
+<h2>🧠 NeetCode Progress</h2>
+
+<p align="center">
+  <a href="https://github.com/khwaab23/neetcode-submissions">
+    <img src="./assets/neetcode-stats.svg"
+         alt="NeetCode Statistics"
+         width="520" />
+  </a>
+</p>
+
+
 ---
 
 <div align="center">
