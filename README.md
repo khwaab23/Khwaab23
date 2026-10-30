@@ -1,47 +1,104 @@
-<div align="center">Khwaab Thareja
-Building useful AI systems. Engineering the infrastructure behind them.
-Software Engineer · AI Agents · Backend & Distributed Systems
 
-New York City · M.S. Computer Science, NYU Tandon
+<div align="center">
 
+# Hey, I'm Khwaab Thareja 👋
 
-</div>A little about me
-I'm a software engineer who enjoys building AI agents, backend systems, and figuring out why things break (and occasionally fixing them).
+### Software Engineer | AI Agents | Backend & Distributed Systems
 
-I've worked on financial systems serving millions of users, distributed workflows, and AI applications. Lately, I'm exploring how to make AI agents more reliable and useful.
-Experience in a nutshell
-Where	What I worked on
-Geoffrey AI	Customer facing engineering and observability for AI workflows
-CanyonCode	Distributed, agent driven workflow orchestration and backend services
-Bajaj Finance	Fraud detection, automation, and large scale financial data systems
+Building AI systems, backend services, and occasionally breaking things along the way.
 
+📍 New York City · 🎓 M.S. Computer Science, NYU Tandon
 
-🛠️ Tech Stack
-AI / Machine Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khwaab-thareja-23t/)
+[![GitHub](https://img.shields.io/badge/GitHub-khwaab23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khwaab23)
+
+</div>
+
+---
+
+## 👨‍💻 A Little About Me
+
+I'm a software engineer who enjoys building **AI agents, backend systems**, and figuring out why things break (and occasionally fixing them).
+
+I've worked on **financial systems serving millions of users, distributed workflows, and AI applications**. Lately, I'm exploring how to make AI agents more reliable and useful.
+
+---
+
+## 💼 Experience in a Nutshell
+
+| Company | What I Worked On |
+| :--- | :--- |
+| **Geoffrey AI** | Customer facing engineering and observability for AI workflows |
+| **CanyonCode** | Distributed, agent driven workflow orchestration and backend services |
+| **Bajaj Finance** | Fraud detection, automation, and large scale financial data systems |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>LLMs · LangGraph · RAG · Prompt Engineering · ChromaDB · Observability
-Backend / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,kafka" />
-</p>REST APIs · Async Services · Distributed Workflows · SQL · Spark
-Infrastructure / Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux,githubactions" />
-</p>CI/CD · Production Debugging · Monitoring · Reliability · Deployment
-Frontend / Product Interfaces
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts" />
-</p>Internal Tools · Customer Facing Interfaces · Workflow UI
-⚡ Currently Exploring
-- Agent reliability, tracing, and evaluation
-- Human in the loop approval workflows
-- Distributed systems concepts like idempotency, reconciliation, and recovery
-- AI products that integrate cleanly into customer workflows
-- Better observability for LLM powered applications
-🤝 Let’s Connect
-If you're working on AI products, backend systems, or infrastructure heavy engineering problems, I’d love to connect.
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, TensorFlow" />
+</p>
 
-LinkedIn · GitHub
-<div align="center"><sub>Thanks for stopping by 👋</sub>
+`LLMs` · `LangGraph` · `RAG` · `Prompt Engineering` · `ChromaDB` · `Observability`
+
+### ⚙️ Backend / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,kafka" alt="FastAPI, Node.js, PostgreSQL, Redis, Kafka" />
+</p>
+
+`REST APIs` · `Async Services` · `Distributed Workflows` · `SQL` · `Spark`
+
+### ☁️ Infrastructure / Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux,githubactions" alt="Docker, Kubernetes, Google Cloud, Linux, GitHub Actions" />
+</p>
+
+`CI/CD` · `Production Debugging` · `Monitoring` · `Reliability` · `Deployment`
+
+### 🎨 Frontend / Product Interfaces
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts" alt="React, Next.js, TypeScript" />
+</p>
+
+`Internal Tools` · `Customer Facing Interfaces` · `Workflow UI`
+
+---
+
+## ⚡ Currently Exploring
+
+- 🤖 **Agent Reliability:** Tracing, evaluation, and recovery
+- 🧑‍💻 **Human in the Loop:** Approval workflows and agent decision making
+- ⚙️ **Distributed Systems:** Idempotency, reconciliation, and fault tolerance
+- 🔗 **AI Integrations:** Building agents that work with real customer systems
+- 📊 **Observability:** Making LLM powered applications easier to debug and monitor
+
+---
+
+## 🤝 Let's Connect
+
+Interested in **AI products, backend systems, or infrastructure engineering**?
+
+I'm always up for interesting conversations and collaborating on cool ideas.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khwaab-thareja-23t/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/khwaab23">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<sub>Thanks for stopping by! 👋</sub>
+
 </div>
