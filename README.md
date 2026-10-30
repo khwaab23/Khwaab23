@@ -12,9 +12,13 @@ Building AI systems, backend services, and occasionally breaking things along th
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khwaab-thareja-23t/)
 [![GitHub](https://img.shields.io/badge/GitHub-khwaab23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khwaab23)
 
-</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khwaab23&color=orange&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
+
 
 ## 👨‍💻 A Little About Me
 
