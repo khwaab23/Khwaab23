@@ -90,25 +90,38 @@ Interested in **AI products, backend systems, or infrastructure engineering**?
 
 I'm always up for interesting conversations and collaborating on cool ideas.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khwaab-thareja-23t/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/khwaab23">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+<h2 align="center">🧠 Coding Progress</h2>
+
+<table align="center">
+  <tr>
+    <th align="center">LeetCode</th>
+    <th align="center">NeetCode</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/khwaab_23/">
+        <img
+          src="https://leetcode-stats-six.vercel.app/khwaab_23?theme=dark"
+          alt="LeetCode Statistics"
+          width="400"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/khwaab23/neetcode-submissions">
+        <img
+          src="./assets/neetcode-stats.svg"
+          alt="NeetCode Statistics"
+          width="400"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-<h2>🧠 NeetCode Progress</h2>
 
-<p align="center">
-  <a href="https://github.com/khwaab23/neetcode-submissions">
-    <img src="./assets/neetcode-stats.svg"
-         alt="NeetCode Statistics"
-         width="520" />
-  </a>
-</p>
 
 
 ---
